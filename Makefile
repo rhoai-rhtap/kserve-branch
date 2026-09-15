@@ -1,3 +1,4 @@
+#
 # The Go and Python based tools are defined in Makefile.tools.mk.
 include Makefile.tools.mk
 
